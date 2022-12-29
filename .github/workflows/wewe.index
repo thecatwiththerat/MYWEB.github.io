@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<form method="GET" action="https://miaolitravel.net/gSearch.aspx" target="_blank">
+<input type="TEST" name="text" /><p>
+<input type="TEST" name="text" value="cx"/><p>
+<input type="TEST" name="text" value="hl"/><p>
+<input type="TEST" name="text" value="cof"/><p>
+<input type="TEST" name="text" value="ie"/><p>
+<input type="TEST" name="text" value="q"/><p>
+<input type="TEST" name="text" value="lang"/><p>
+<input type="submit"/>
+</form>
+</body>
+</html>
